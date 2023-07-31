@@ -4,6 +4,24 @@
 
 Este proyecto fue creado con el propósito de experimentar y aprender cómo utilizar Bootstrap para el diseño y maquetación de páginas web. En este proyecto, he utilizado únicamente HTML y CSS para implementar diferentes componentes y estilos proporcionados por Bootstrap.
 
+
+## ¿Qué puedes encontrar en este proyecto? :eyes:
+
+En este proyecto, he creado diferentes secciones utilizando componentes de Bootstrap, como navbar, media, progress-bar y más. Cada sección muestra información sobre mis flores favoritas, mi mascota favorita y mis minerales favoritos. Además, he añadido un progreso animado para darle un toque interesante al diseño.
+
+## ¡Siéntete libre de explorar y experimentar con el código para ver cómo se utilizan los componentes de Bootstrap y cómo se pueden personalizar para adaptarse a tus necesidades!
+
+---
+
+## ¡Espero que disfrutes explorando este proyecto tanto como yo disfruté creándolo! :sparkles:
+
+## ¡Gracias por tu interés en este proyecto! :heart:
+
+Si tienes alguna pregunta o consulta, no dudes en contactarme. ¡Espero que tengas una experiencia web increíble! 😊
+
+¡Diviértete codificando! :computer:
+
+
 ## Instalación :gear:
 
 Para probar este proyecto en tu máquina local, sigue estos pasos:
@@ -22,19 +40,3 @@ git clone https://github.com/Irina-Ichim/ProbandoBootstrap.git
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
 ---
 
-
-## ¿Qué puedes encontrar en este proyecto? :eyes:
-
-En este proyecto, he creado diferentes secciones utilizando componentes de Bootstrap, como navbar, media, progress-bar y más. Cada sección muestra información sobre mis flores favoritas, mi mascota favorita y mis minerales favoritos. Además, he añadido un progreso animado para darle un toque interesante al diseño.
-
-## ¡Siéntete libre de explorar y experimentar con el código para ver cómo se utilizan los componentes de Bootstrap y cómo se pueden personalizar para adaptarse a tus necesidades!
-
----
-
-## ¡Espero que disfrutes explorando este proyecto tanto como yo disfruté creándolo! :sparkles:
-
-## ¡Gracias por tu interés en este proyecto! :heart:
-
-Si tienes alguna pregunta o consulta, no dudes en contactarme. ¡Espero que tengas una experiencia web increíble! 😊
-
-¡Diviértete codificando! :computer:

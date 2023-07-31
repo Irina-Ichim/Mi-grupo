@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+}
+article{
+    margin-top: 200px;
+}
+section{
+    width: 100%;
+    padding: auto;
+
+}
+img{
+    width: 550px;
+    height: 350px;
+    object-fit: cover;
+    align-items: center;
+    margin-left: 30%;
+}
+.progress{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
